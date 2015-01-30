@@ -1,0 +1,7 @@
+# レスポンシブについて
+
+````Javascript
+function test () {
+
+}
+````
